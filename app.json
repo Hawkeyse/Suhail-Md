@@ -1,7 +1,7 @@
 {
-  "name": "suhail-md@1.3.9",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
+  "name": "TribalGamerNetwork",
+  "description": "Hey omg ur so cute asf",
+  "logo": "https://media.discordapp.net/attachments/1046052469815382060/1261047315540480081/t-95.png?ex=66918955&is=669037d5&hm=6759eb1f6c636c48331335b81ca03dd729ed0db407466f0cb54cc0926f65c11c&=&format=webp&quality=lossless&width=508&height=677",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Timtech",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "TribalGamerNetwork"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Ghana/Nigeria"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "233595885532"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -93,7 +93,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "TribalGamerNetwork",
       "required": false 
     },
     "PACK_AUTHER": {
