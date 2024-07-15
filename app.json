@@ -98,7 +98,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "TribalGamerNetwork",
       "required": false 
     }
   }, 
