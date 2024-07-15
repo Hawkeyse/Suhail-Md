@@ -74,8 +74,8 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.8",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Timtech ᴍᴅ 』),
  
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
+  author : process.env.PACK_AUTHER|| "TribalGamerNetwork",
+  packname: process.env.PACK_NAME || "TribalGamerNetwork",
   botname : process.env.BOT_NAME  || "TribalGamerNetwork-ᴍᴅ",
   ownername:process.env.OWNER_NAME|| "Timtech",
 
