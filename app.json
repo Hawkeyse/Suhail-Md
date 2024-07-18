@@ -84,8 +84,8 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
-      "required" :false
+      "value": "Y6aJBRTp8FKjU3FDtFubsJwB",
+      "required" :true
     },
     "MODE": {
       "description": "Worktype of your bot. Use public/private, if private then only bot number can use it. If public then everyone can use it.",
